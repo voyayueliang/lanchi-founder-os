@@ -43,4 +43,12 @@ The redesign intentionally changes the source from a three-column operations con
 
 - [P3] A later iteration can add reduced-motion handling for the continuously rendered canvas.
 
+### Pass 3 — public-signal brief
+
+- Implementation screenshot: `/Users/voya_chanyuan/Documents/ChatGPT/蓝驰/lanchi-founder-os/qa-signal-cards.png` at 1280 × 720.
+- Replaced the concept-first hero with a real public-signal brief based on the existing evidence set.
+- Added three decision cards with evidence grade, confirmed change, selection reason, one next action, routing suggestion and direct source.
+- Evidence calibration is recorded in `evidence-calibration.md`; research priority labels are explicitly not presented as Lanchi internal priorities.
+- Desktop rendering and external-source link affordances are intact; browser console has no warnings or errors.
+
 final result: passed
